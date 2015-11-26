@@ -1,6 +1,6 @@
 {
-  "name": "htmlBoilerplate",
-  "description": "Mobile friendly HTML5 boilerplate",
+  "name": "Luma",
+  "description": "Mobile friendly HTML5 framework for building web apps",
   "main": "",
   "authors": [
     "David Marchena <dvmarchena@gmail.com>"
@@ -9,7 +9,7 @@
   "keywords": [
     "boilerplate"
   ],
-  "homepage": "https://github.com/dmarchena/html-boilerplate",
+  "homepage": "https://github.com/dmarchena/luma",
   "moduleType": [],
   "private": true,
   "ignore": [

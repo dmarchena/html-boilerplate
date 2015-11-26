@@ -1,7 +1,8 @@
-# html-boilerplate
+# Luma
 Mobile friendly HTML5 framework for building web apps.
 
 > This project is still unstable.
+
 
 ## Current features
 
@@ -10,7 +11,7 @@ Mobile friendly HTML5 framework for building web apps.
   * Autoprefixing
   * Minifying
   * Includes Normalize.css at the top of your CSS.
-* Pack your Bower components into your bundle.js and main.css. _(state: experimental)_
+* In order to reduce the requests, your Bower components will be packed into your bundle.js and main.css. _(state: experimental)_
   * The framework will copy your components' images into the dist  folder (`dist/images/<component-name>/`) and it will fix the urls inside their stylesheets.
 
 ## Coming features
