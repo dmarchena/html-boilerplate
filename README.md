@@ -24,7 +24,7 @@ Mobile friendly HTML5 framework for building web apps.
 1. Clone the git repo
 
   ```
-  git clone https://github.com/dmarchena/html-boilerplate.git
+  git clone https://github.com/dmarchena/luma.git
   ```
 2. Install the dependencies
 
