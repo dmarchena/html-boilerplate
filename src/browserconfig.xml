@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Please read: https://msdn.microsoft.com/en-us/library/ie/dn455106.aspx -->
+<!-- Recommended dimmensions are 1.8 times the default ones -->
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="images/touch/ms-tile-128x128.png"/>
+      <square150x150logo src="images/touch/ms-tile-270x270.png"/>
+      <wide310x150logo src="images/touch/ms-tile-558x270.png"/>
+      <square310x310logo src="images/touch/ms-tile-558x558.png"/>
+      <TileColor>#18536a</TileColor>
+    </tile>
+  </msapplication>
+</browserconfig>

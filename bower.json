@@ -1,0 +1,39 @@
+{
+  "name": "htmlBoilerplate",
+  "description": "Mobile friendly HTML5 boilerplate",
+  "main": "",
+  "authors": [
+    "David Marchena <dvmarchena@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "boilerplate"
+  ],
+  "homepage": "https://github.com/dmarchena/html-boilerplate",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "console-polyfill": "~0.2.2",
+    "jquery": "~2.1.4",
+    "jquery-ui": "~1.11.4",
+    "normalize-css": "normalize.css#~3.0.3"
+  },
+  "overrides": {
+    "jquery-ui": {
+      "main": [
+        "jquery-ui.js",
+        "ui/*.js",
+        "themes/ui-darkness/images/*.*",
+        "themes/ui-darkness/jquery-ui.css",
+        "themes/ui-darkness/theme.css"
+      ]
+    }
+  }
+}
