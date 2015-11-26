@@ -1,4 +1,4 @@
-<img align="left" width="128" height="128"
+<img align="left" width="140" height="140"
      title="Luma framework logo"
      src="http://dmarchena.github.io/luma/images/luma-logo.svg">
 
