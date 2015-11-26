@@ -2,7 +2,7 @@
      title="Luma framework logo"
      src="http://dmarchena.github.io/luma/images/luma-logo.svg">
 
-# Luma 
+# Luma
 
 Mobile friendly HTML5 framework for building web apps.
 
@@ -55,6 +55,8 @@ Mobile friendly HTML5 framework for building web apps.
   ```
   http://localhost:8080/
   ```
+
+5. Last but not least, contribute! ;)
 
 More documentation soon...
 
