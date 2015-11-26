@@ -1,7 +1,7 @@
 # Luma
 Mobile friendly HTML5 framework for building web apps.
 
-> This project is still unstable.
+> This project is still under development and it's unstable.
 
 
 ## Current features
