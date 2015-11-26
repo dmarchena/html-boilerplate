@@ -104,7 +104,7 @@ gulp.task('clean', () => del(['.tmp', 'dist/*', '!dist/.git'], {dot: true}));
 gulp.task('serve:dist', ['default'], () => {
   return gulp.src('dist')
     .pipe(webserver({
-      host: '0.0.0.0',
+      //host: '0.0.0.0', uncomment to enable host option
       port: 8080,
       fallback: 'index.html',
       livereload: true,
