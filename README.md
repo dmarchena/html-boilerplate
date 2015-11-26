@@ -21,23 +21,29 @@ Mobile friendly HTML5 framework for building web apps.
 ## Usage
 
 1. Clone the git repo
+
   ```
   git clone https://github.com/dmarchena/html-boilerplate.git
   ```
 2. Install the dependencies
+
   ```
   npm install
   ```
 
 3. Build the sample project with gulp and take a look at the `dist` folder
+
   ```
   gulp
   ```
 4. Or just build and launch a local server with
+
   ```
   gulp serve
   ```
+
   and check the resulting boilerplate at
+
   ```
   http://localhost:8080/
   ```
