@@ -22,8 +22,7 @@
   "dependencies": {
     "console-polyfill": "~0.2.2",
     "jquery": "~2.1.4",
-    "jquery-ui": "~1.11.4",
-    "normalize-css": "normalize.css#~3.0.3"
+    "jquery-ui": "~1.11.4"
   },
   "overrides": {
     "jquery-ui": {
